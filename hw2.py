@@ -1,1 +1,1 @@
-from wikipediaapi import *
+import wikipediaapi
